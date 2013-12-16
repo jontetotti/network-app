@@ -1,0 +1,8 @@
+{
+  "name": "JN-network-app",
+  "description": "An app for network testing",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~3.0.0"
+  }
+}
